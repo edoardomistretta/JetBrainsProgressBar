@@ -1,6 +1,6 @@
 <idea-plugin>
   <id>some.awesome</id>
-  <name>Nyan Progress Bar</name>
+  <name>Juventus Progress Bar</name>
   <version>1.13</version>
   <idea-version since-build="192"/>
   <vendor email="dmitry.batkovich@jetbrains.com">Dmitry Batkovich</vendor>
@@ -37,7 +37,7 @@
 
   <application-components>
     <component>
-      <implementation-class>NyanApplicationComponent</implementation-class>
+      <implementation-class>JuventusApplicationComponent</implementation-class>
     </component>
   </application-components>
 </idea-plugin>
