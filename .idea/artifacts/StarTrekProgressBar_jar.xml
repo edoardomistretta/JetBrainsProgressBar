@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="StarTrekProgressBar:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/StarTrekProgressBar_jar</output-path>
-    <root id="archive" name="StarTrekProgressBar.jar">
-      <element id="module-output" name="StarTrekProgressBar" />
-    </root>
-  </artifact>
-</component>
