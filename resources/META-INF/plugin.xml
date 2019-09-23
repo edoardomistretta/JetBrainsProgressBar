@@ -1,5 +1,5 @@
 <idea-plugin>
-  <id>some.awesome</id>
+  <id>startrek.progressbar</id>
   <name>StarTrek Progress Bar</name>
   <version>1.13</version>
   <idea-version since-build="192"/>
