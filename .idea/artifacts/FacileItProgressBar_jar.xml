@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FacileItProgressBar:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FacileItProgressBar_jar</output-path>
+    <root id="archive" name="FacileItProgressBar.jar">
+      <element id="module-output" name="FacileItProgressBar" />
+    </root>
+  </artifact>
+</component>
